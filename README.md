@@ -23,6 +23,7 @@ Postgres schema
 
 ### crowdfunding_ERD.png 
 - **Overview/methodology:** Using the column names of the csv files created, we created a relationship diagram and identified both primary and foreign keys.
+- ![relationship diagram](https://github.com/angiecfoust/ETL-challenge/blob/main/crowdfunding_ERD.png)
 
 ### crowdfundingDB_schema.sql
 - **Overview/methodology:** Obtained from the quickDBD export file, this schema was used to create the tables within the postgres database.
