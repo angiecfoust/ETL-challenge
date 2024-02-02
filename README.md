@@ -23,14 +23,12 @@ The goal of this project was to practice ETL (extract, transform and load) using
 
 ### crowdfunding_ERD.png 
 - **Overview/methodology:** Using the column names of the csv files created, we created a relationship diagram and identified both primary and foreign keys.
-(image here)
 
 ### crowdfundingDB_schema.sql
 - **Overview/methodology:** Obtained from the quickDBD export file, this schema was used to create the tables within the postgres database.
 
 ### Csv_import_verification.png
 - **Overview:** A screenshot from the processes section in postgres, verifying that each csv has been imported correctly into their corresponding tables
-(image here)
 
 
 ### Sql_query_verification.sql
