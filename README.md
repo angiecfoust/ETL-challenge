@@ -29,6 +29,7 @@ Postgres schema
 
 ### Csv_import_verification.png
 - **Overview:** A screenshot from the processes section in postgres, verifying that each csv has been imported correctly into their corresponding tables
+- ![screenshot showing successful import verification](https://github.com/angiecfoust/ETL-challenge/blob/main/csv_import_verification.PNG)
 
 
 ### Sql_query_verification.sql
