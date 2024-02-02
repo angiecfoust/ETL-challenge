@@ -5,12 +5,12 @@ Project 2- ETL
 The goal of this project was to practice ETL (extract, transform and load) using python, pandas and postgres. We started with multiple crowdfunding data sources (in excel form), cleaned and sorted said data and stored it into a postgres database. 
 
 ## Deliverables
-	Csv files
+Csv files
 - Campaign.csv
 - Category.csv
 - Contacts.csv
 - subcategory.csv
-	Postgres schema
+Postgres schema
 
 ## Files
 ### Resources folder
